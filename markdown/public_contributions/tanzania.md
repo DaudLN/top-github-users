@@ -9083,9 +9083,9 @@ There are `1000 users`  in Tanzania. You need at least `1 followers` to be on th
 			Daud Namayala
 		</td>
 		<td>University Of Dodoma <br/></td>
-		<td><a href="https://twitter.com/davy2130">davy2130</a></td>
+		<td><a href="https://twitter.com/daudln">daudln</a></td>
 		<td>Dodoma, Tanzania</td>
-		<td>1</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>692</td>
